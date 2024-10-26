@@ -2,7 +2,6 @@
 name = "white-square-maker"
 version = "0.1.0"
 description = ""
-authors = ["Patrick Rice <patrickrice20@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
